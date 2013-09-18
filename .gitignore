@@ -1,0 +1,10 @@
+Coursera
+GettingStarted
+progfun-example.iml
+.DS_Store
+.idea
+target
+assignments/example/.cache
+assignments/example/.classpath
+assignments/example/.project
+assignments/example/.settings
